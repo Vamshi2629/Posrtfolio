@@ -31,9 +31,9 @@ const Contact = () => {
     ];
 
     const socialLinks = [
-        { icon: Github, label: 'GitHub', link: 'https://github.com' },
-        { icon: Linkedin, label: 'LinkedIn', link: 'https://linkedin.com' },
-        { icon: Twitter, label: 'Twitter', link: 'https://twitter.com' },
+        { icon: Github, label: 'GitHub', link: 'https://github.com/Vamshi2629' },
+        { icon: Linkedin, label: 'LinkedIn', link: 'https://www.linkedin.com/in/vamshiboda27/' },
+        // { icon: Twitter, label: 'Twitter', link: 'https://twitter.com' },
     ];
 
     return (
